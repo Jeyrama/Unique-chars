@@ -28,3 +28,5 @@ function solve(a,b){
   }
   return arr.join("");
 }
+
+// or
